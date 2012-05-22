@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.08.28 13:52:03.488.cpp,C:\Users\Admin\Documents\Borland Studio Projects\Unit1.cpp=C:\Working\CC\2010\ShameWallSpammer\Unit1.cpp</Transaction>
+    <Transaction>2010.08.28 13:52:03.489.h,C:\Users\Admin\Documents\Borland Studio Projects\Unit1.h=C:\Working\CC\2010\ShameWallSpammer\Unit1.h</Transaction>
+    <Transaction>2010.08.28 13:52:03.489.dfm,C:\Users\Admin\Documents\Borland Studio Projects\Unit1.dfm=C:\Working\CC\2010\ShameWallSpammer\Unit1.dfm</Transaction>
+    <Transaction>2010.08.28 13:52:08.708.bdsproj,C:\Users\Admin\Documents\Borland Studio Projects\Project1.bdsproj=C:\Working\CC\2010\ShameWallSpammer\ShameWallSpammer.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
